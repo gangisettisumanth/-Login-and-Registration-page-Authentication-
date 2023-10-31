@@ -1,2 +1,2 @@
-# -Login-and-Registration-page-Authentication-
+# Login-and-Registration-page-Authentication
 HTML, CSS, JS
