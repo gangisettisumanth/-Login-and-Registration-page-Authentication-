@@ -1,0 +1,39 @@
+
+
+*{
+    box-sizing: border-box;
+    font-size: large;
+}
+
+body{
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+.box1{
+    background-color: skyblue;
+    width: 100vw;
+    height: 100vh;
+}
+
+
+.my-element {
+    display: inline-block;
+    margin: 0 0.5rem;
+
+    animation: bounce;
+    /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    /* don't forget to set a duration! */
+}
+
+.box3 h1{
+    color:white;
+    font-size:64px;
+}
+
+.box3 h1 span{
+    color:red;
+    font-size: 84px;
+}

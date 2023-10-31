@@ -1,0 +1,20 @@
+body {
+    background: lightsteelblue !important;
+}
+
+
+#loginform {
+    border: 8px groove red;
+    margin: 0px;
+    padding: 25px;
+}
+
+
+
+
+.box {
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-weight: bolder;
+}
